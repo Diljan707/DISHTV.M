@@ -1,0 +1,13 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="ddpunjabi.in" tvg-name="DD Punjabi" group-title="Punjabi", DD Punjabi
+http://z5ams.akamaized.net/ddpunjabi/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="ptcchakde.in" tvg-name="PTC Chakde" group-title="Punjabi", PTC Chakde
+http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1290.m3u8
+
+#EXTINF:-1 tvg-id="ptcpunjabi.in" tvg-name="PTC Punjabi" group-title="Punjabi", PTC Punjabi
+http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1292.m3u8
+
+#EXTINF:-1 tvg-id="ptcnews.in" tvg-name="PTC News" group-title="Punjabi", PTC News
+http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1291.m3u8
