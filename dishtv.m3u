@@ -1,2 +1,3 @@
-#EXTINF:-1 tvg-id="ptcPunjabi.in" tvg-name="PTC Punjabi" tvg-logo="https://cdn.jsdelivr.net/gh/Diljan707/DISHTV.M/logos/ptcpunjabi.png" group-title="Punjabi",PTC Punjabi
-https://ptcpunjabi-live.akamaized.net/hls/live/2002741/ptcpunjabi/master.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="ptcPunjabi.in" tvg-name="PTC Punjabi" tvg-logo="https://cdn.jsdelivr.net/gh/Diljan707/DISHTV.M/logos/ptcpunjabi.png" group-title="Punjabi", PTC Punjabi
+https://msluk5s.akamaized.net/hls/live/2000170/ptcpunjabimsl/ptcpunjabi_2000/chunklist.m3u8
