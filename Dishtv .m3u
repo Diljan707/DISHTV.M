@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ptcPunjabi.in" tvg-name="PTC Punjabi" tvg-logo="https://cdn.jsdelivr.net/gh/USERNAME/REPO/logos/ptcpunjabi.png" group-title="Punjabi",PTC Punjabi
+http://50.7.198.170:8081/PB/PTCPUNJABI/playlist.m3u8
