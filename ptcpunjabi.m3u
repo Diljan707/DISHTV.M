@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ptcPunjabi.in" tvg-name="PTC Punjabi" tvg-logo="https://cdn.jsdelivr.net/gh/Diljan707/DISHTV.M/logos/ptcpunjabi.png" group-title="Punjabi",PTC Punjabi (Stream 1)
+http://51.222.85.85:81/hls/ptcpunjabi.m3u8
+
+#EXTINF:-1 tvg-id="ptcPunjabi.in" tvg-name="PTC Punjabi" tvg-logo="https://cdn.jsdelivr.net/gh/Diljan707/DISHTV.M/logos/ptcpunjabi.png" group-title="Punjabi",PTC Punjabi (Stream 2)
+http://tv.cloudcdn.me/ptcpunjabi/tracks-v1a1/mono.m3u8
