@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="PTCSimran.in" tvg-name="PTC Simran" group-title="Punjabi",PTC Simran
-http://starshare.cc:41000/556747/556747/452
+#EXTINF:-1 tvg-id="ptcSimran.in" tvg-name="PTC Simran" tvg-logo="https://cdn.jsdelivr.net/gh/Diljan707/DISHTV.M/logos/ptcsimran.png" group-title="Punjabi",PTC Simran
+https://livetv-channels.b-cdn.net/8015/chunklist0.m3u8
