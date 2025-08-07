@@ -1,6 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ptcPunjabi.in" tvg-name="PTC Punjabi" tvg-logo="https://cdn.jsdelivr.net/gh/Diljan707/DISHTV.M/logos/ptcpunjabi.png" group-title="Punjabi",PTC Punjabi (Stream 1)
-http://51.222.85.85:81/hls/ptcpunjabi.m3u8
-
-#EXTINF:-1 tvg-id="ptcPunjabi.in" tvg-name="PTC Punjabi" tvg-logo="https://cdn.jsdelivr.net/gh/Diljan707/DISHTV.M/logos/ptcpunjabi.png" group-title="Punjabi",PTC Punjabi (Stream 2)
-http://tv.cloudcdn.me/ptcpunjabi/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Nick.in" tvg-name="Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Nickelodeon_2009_logo.svg/320px-Nickelodeon_2009_logo.svg.png" group-title="Kids",Nick
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Nick_Jio/ Nick_Jio-avc1_400000=400000.m3u8
