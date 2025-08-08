@@ -1,1 +1,3 @@
-http://103.140.36.78/hls/ptcpunjabi/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="PTCPunjabi.in" tvg-name="PTC Punjabi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/PTC_Punjabi.png/200px-PTC_Punjabi.png" group-title="Punjabi",PTC Punjabi
+https://snehatv.live/ptcpunjabi/tracks-v1a1/mono.m3u8
