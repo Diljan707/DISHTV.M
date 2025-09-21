@@ -1,0 +1,16 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="SONY_SAB.IN" tvg-name="Sony SAB" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5c/Sony_SAB_logo.png" group-title="Hindi",Sony SAB
+http://starshare.fun:8080/c/SONYSAB.m3u8
+
+#EXTINF:-1 tvg-id="SONY_PAL.IN" tvg-name="Sony Pal" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/42/Sony_Pal_logo.png" group-title="Hindi",Sony Pal
+http://starshare.fun:8080/c/SONYPAL.m3u8
+
+#EXTINF:-1 tvg-id="DISNEY.IN" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3f/Disney_Channel_logo.png" group-title="Kids",Disney Channel
+http://starshare.fun:8080/c/DISNEY.m3u8
+
+#EXTINF:-1 tvg-id="SONIC.IN" tvg-name="Sonic" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e5/Sonic_Channel_logo.png" group-title="Kids",Sonic
+http://starshare.fun:8080/c/SONIC.m3u8
+
+#EXTINF:-1 tvg-id="PTC_IN" tvg-name="PTC Punjabi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3e/PTC_Punjabi_logo.png" group-title="Punjabi",PTC Punjabi
+http://starshare.fun:8080/c/PTC.m3u8
