@@ -1,0 +1,10 @@
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/in/sony.epg.xml"
+
+#EXTINF:-1 tvg-id="SonicArg.in" tvg-name="Sonic" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/87/Sonic_TV_logo.png" group-title="Kids",Sonic TV
+https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
+
+#EXTINF:-1 tvg-id="SonicWest.in" tvg-name="Sonic West" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/87/Sonic_TV_logo.png" group-title="Kids",Sonic West
+https://stream.hydeinnovations.com/tvwest-flussonic/index.m3u8
+
+#EXTINF:-1 tvg-id="SonicLUO.in" tvg-name="Sonic LUO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/87/Sonic_TV_logo.png" group-title="Kids",Sonic LUO
+https://stream.hydeinnovations.com/luotv-flussonic/index.m3u8
