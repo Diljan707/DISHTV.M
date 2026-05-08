@@ -1,4 +1,5 @@
 #EXTINF:-1 tvg-name="SONY SAB",SONY SAB
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.tataplaybinge.com/&User-Agent=curl/8.19.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=fcf90127045f5edabc5d94a932f5c6fe:7371b5068aa09b691b1f60045f7b9659
-https://bpaita2.akamaized.net/bpk-tv/irdeto_com_Channel_126/output/manifest.mpd
+https://bpaita2.akamaized.net/bpk-tv/irdeto_com_Channel_126/output/manifest.mpd?hdntl=exp=1778249299/acl=%2fbpk-tv%2firdeto_com_Channel_126%2foutput%2f*/id=9905477177/data=hdntl/hmac=54f75632d8a33bb26429f55c9916c2b418dc7ab809045541c7cfc336fb0f4dd6
