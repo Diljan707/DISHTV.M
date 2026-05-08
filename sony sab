@@ -1,0 +1,4 @@
+#EXTINF:-1 tvg-name="SONY SAB",SONY SAB
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=fcf90127045f5edabc5d94a932f5c6fe:7371b5068aa09b691b1f60045f7b9659
+https://bpaita2.akamaized.net/bpk-tv/irdeto_com_Channel_126/output/manifest.mpd
